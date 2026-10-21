@@ -29,27 +29,27 @@ Dataset link: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-
 
 ### Team Contributions
 
-## Jennifer Beulah(Team Lead)
+# Jennifer Beulah(Team Lead)
 Talent Impact, Engagement Mechanics & Statistical Correlations
 
- ## Role & Objective:
+ # Role & Objective:
  You are responsible for analyzing the statistical relationships across Netflix metrics and evaluating talent ROI. You will merge credits with titles to rank the most successful directors and actors, test whether popularity correlates with high review scores, and compute Pearson correlation matrices with formal p-value hypothesis testing.
 
-## Deliverables
+# Deliverables
 Chart 1: Correlation Heatmap Matrix with annotated r-coefficients.
 Chart 2: IMDb Score vs. TMDB Popularity Scatter & Regression Plot.
 Chart 3: Top 10 Directors & Actors Leaderboard (≥3 projects on platform).
 Written Insights: 3–4 bullet points detailing statistical significance and talent performance.
 
-## Joshita 
+# Joshita 
 Data Cleaning, Strategic Gap Analysis & Opportunity Modeling
 
-## Role & Objective: 
+# Role & Objective: 
 I am responsible for building the main data cleaning code and finding hidden opportunities where Netflix should make more shows. I will fix broken text data so Python can read it, safely fill in missing information without deleting important rows, and create a custom "Opportunity Score." This math formula balances average audience ratings, total viewer interest, and how many similar shows already exist. This powers a 4-Quadrant Bubble Chart to highlight the best highly-rated niches for Netflix to invest in next.
 
 ## Deliverables
 
-## Data Cleaning: 
+# Data Cleaning: 
 Master Data Cleaning Code (fixing text lists and safely filling missing data).
 
 Chart 1: 4-Quadrant Strategic Bubble Chart (showing Market Supply on the X-axis, Audience Rating on the Y-axis, and Total Viewer Interest as the bubble size).
