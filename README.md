@@ -57,8 +57,30 @@ Why I calculated it: To go beyond simple popularity by combining average ratings
 Why it is important: It stops us from falling for the "rating trap" (niches with high scores but very few real viewers) and ignores overcrowded markets, helping to find true gaps where audiences want more content.
 Business Value for Netflix: It helps Netflix executives spend their budget safely by creating shows in areas with guaranteed high demand, which keeps subscribers happy and lowers financial risk.
 
+# A. Prem Steiven Doss
 
-## Methodology
+## Netflix Content Analysis – Key Insights
+
+**Data Cleaning:** Handles missing values and broken text data while preserving important records. **Audience Rating vs. Demand:** Combines ratings, viewer interest, and market supply to calculate an Opportunity Score.
+**Strategic Gap Identification:** Uses a 4-quadrant bubble chart to identify highly rated, popular categories with low market supply.
+**Avoiding the Rating Trap:** Combines ratings with viewer interest to avoid investing in highly rated but unpopular niches.
+**Business Value:** Helps Netflix identify underserved audiences, improve subscriber satisfaction, and reduce investment risks.
+
+# S Sairam
+
+## Market Geography, Audience Maturity & Quality Trends
+
+## Deliverables
+- **Chart 1:** Top 10 Producing Countries
+- **Chart 2:** Age Certification (Movies vs. Shows)
+- **Chart 3:** IMDb Rating Trends (1970–2022)
+
+## Key Insights
+- **Geography:** The US and India dominate, followed by the UK, Japan, and South Korea.
+- **Audience:** Netflix content mainly targets mature audiences (TV-MA, R, TV-14).
+- **Quality:** TV show ratings remain stable (6.8–7.2), while movie ratings slightly declined during 2015–2021.
+
+### Methodology
 1. Load the dataset into Python.
 2. Clean missing, duplicate, and inconsistent values as required.
 3. Perform exploratory data analysis.
